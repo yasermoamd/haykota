@@ -1,0 +1,78 @@
+<svg
+  width="128"
+  height="128"
+  viewBox="0 0 512 512"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Marketplace basket logo"
+>
+  <!-- Background (optional – remove if you want transparent) -->
+  <!-- <rect width="512" height="512" fill="#FFF9F2"/> -->
+
+  <!-- Basket body -->
+  <path
+    d="M96 200 L416 200 L380 390 C374 420 350 440 320 440 H192 C162 440 138 420 132 390 Z"
+    fill="#F4C05A"
+    stroke="#5A3A24"
+    stroke-width="20"
+    stroke-linejoin="round"
+  />
+
+  <!-- Basket top rim -->
+  <path
+    d="M96 200 Q256 170 416 200"
+    fill="none"
+    stroke="#5A3A24"
+    stroke-width="24"
+    stroke-linecap="round"
+  />
+
+  <!-- Woven horizontal lines -->
+  <path
+    d="M140 250 H372"
+    fill="none"
+    stroke="#E8A94A"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+  <path
+    d="M150 300 H362"
+    fill="none"
+    stroke="#E8A94A"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+  <path
+    d="M160 350 H352"
+    fill="none"
+    stroke="#E8A94A"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+
+  <!-- Zigzag pattern -->
+  <path
+    d="M120 270 L170 245 L220 270 L270 245 L320 270 L370 245 L420 270"
+    fill="none"
+    stroke="#5A3A24"
+    stroke-width="14"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Handles -->
+  <path
+    d="M200 200 C200 150 240 120 256 120 C272 120 312 150 312 200"
+    fill="none"
+    stroke="#5A3A24"
+    stroke-width="20"
+    stroke-linecap="round"
+  />
+  <path
+    d="M230 200 C230 165 246 150 256 150 C266 150 282 165 282 200"
+    fill="none"
+    stroke="#5A3A24"
+    stroke-width="16"
+    stroke-linecap="round"
+  />
+</svg>
